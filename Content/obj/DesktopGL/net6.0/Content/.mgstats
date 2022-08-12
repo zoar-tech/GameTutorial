@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/user/WebApp/csharp_tutorial/MyMonoGame/Content/crosshairs.png","C:/Users/user/WebApp/csharp_tutorial/MyMonoGame/Content/bin/DesktopGL/Content/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.3385441
+"C:/Users/user/WebApp/csharp_tutorial/MyMonoGame/Content/galleryFont.spritefont","C:/Users/user/WebApp/csharp_tutorial/MyMonoGame/Content/bin/DesktopGL/Content/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.2456268
+"C:/Users/user/WebApp/csharp_tutorial/MyMonoGame/Content/sky.png","C:/Users/user/WebApp/csharp_tutorial/MyMonoGame/Content/bin/DesktopGL/Content/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.5261134
+"C:/Users/user/WebApp/csharp_tutorial/MyMonoGame/Content/target.png","C:/Users/user/WebApp/csharp_tutorial/MyMonoGame/Content/bin/DesktopGL/Content/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0153461
